@@ -92,9 +92,7 @@ python funding.py
 
 ## Contributing
 
-Contributions are always welcome!
-
-Feel free to fork this repository and submit pull requests for any enhancements or bug fixes.
+Contributions are always welcome so feel free to fork this repository and submit pull requests for any enhancements or bug fixes.
 
 ## License
 
